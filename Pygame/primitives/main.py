@@ -61,4 +61,4 @@ while loop:
 
 
     pg.display.update()
-pg.quit()
+pg.quit() # выход из pygame
